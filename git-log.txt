@@ -1,0 +1,11 @@
+commit d1b1de4838ab7a9532a3d3936d87b248ba5549d3 (HEAD -> main, origin/main, origin/edit-readme, edit-readme)
+Author: Aqillaprly <aqillaaprly.gmail.com>
+Date:   Fri Sep 5 21:15:50 2025 +0700
+
+    add penjelasan dasar Git di README.md
+
+commit f8c9ece8fdf5c668876690cd74b40887cd359e71
+Author: Aqillaprly <aqillaaprly.gmail.com>
+Date:   Fri Sep 5 20:57:34 2025 +0700
+
+    add info txt berisi informasi pribadi
