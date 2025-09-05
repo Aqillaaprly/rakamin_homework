@@ -2,3 +2,6 @@ Nama : Aqilla Aprily Kurnia Sari
 Batch : Data Science_59
 Alasan belajar git : Pertama kali belajar github adalah karena diharuskan dari kampus.
                     Lalu berlanjut karena beberapa project yang memang diharuskan untuk pakai github sebagai penghubung 
+
+
+link repository : https://github.com/Aqillaaprly/rakamin_homework 
